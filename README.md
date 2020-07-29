@@ -1,4 +1,4 @@
-#### Front-end Web Developer :computer: • Passionate about JavaScript and CSS :heart: • Coffee enthusiast :coffee:
+#### Front-end Web Developer :computer: • Passionate about JavaScript and CSS :heart:
 
 - 🔭 I’m currently working on [The Code Pill](https://thecodepill.com)
 - 🌱 I’m currently learning [Next.js](https://nextjs.org)
